@@ -5,20 +5,18 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Middlebury College**
 
-**College**
+**Associate Provost for Digital Learning**
 
-**Unit**
+## UNIV100: Your digital journey
 
-## Course Number: Course Title
-
-**Semester Year**
+**Spring 2017**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Instructor: **Dr. Amy Collier**
+**Office**: Service Building 208
+**Email**:  acollier@middlebury.edu
 
 **Phone**:  
 **Office Hours**: Date, Time, Location  
