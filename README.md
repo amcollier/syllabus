@@ -15,6 +15,7 @@ permalink: /
 
 
 **Instructor: **Dr. Amy Collier**
+
 **Office**: Service Building 208
 **Email**:  acollier@middlebury.edu
 
